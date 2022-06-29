@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# IRF510
+#
+DEF IRF510 Q 0 40 N N 1 L N
+F0 "Q" -360 200 50 H V L BNN
+F1 "IRF510" -360 110 50 H V L BNN
+F2 "TO220" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 100 100 100 75 N
+P 2 0 0 10 -44 95 -44 -100 N
+P 2 0 0 6 15 0 70 20 N
+P 2 0 0 6 70 -20 15 0 N
+P 2 0 0 6 20 -75 100 -75 N
+P 2 0 0 6 100 75 21 75 N
+P 2 0 0 6 -100 0 -48 0 N
+P 2 0 0 6 70 20 70 -20 N
+P 2 0 0 6 20 0 100 0 N
+P 2 0 0 6 100 0 100 -100 N
+C 100 -75 5 0 0 12 N
+T 0 -140 -80 40 0 0 0 G Normal 0 L B
+T 0 130 70 40 0 0 0 D Normal 0 L B
+T 0 130 -70 40 0 0 0 S Normal 0 L B
+S -10 -100 20 -50 0 0 0 F
+S -10 -20 20 20 0 0 0 F
+S -10 50 20 100 0 0 0 F
+X ~ 2 100 200 100 D 40 40 0 0 P 
+X ~ 3 100 -200 100 U 40 40 0 0 P 
+X ~ 1 -200 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

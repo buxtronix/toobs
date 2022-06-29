@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "12AU7")(type "Legacy")(uri "${KIPRJMOD}/libraries/12au7/12AU7.lib")(options "")(descr ""))
+  (lib (name "IRF510")(type "Legacy")(uri "${KIPRJMOD}/libraries/irf510/IRF510.lib")(options "")(descr ""))
+  (lib (name "SJ1-3524N")(type "Legacy")(uri "${KIPRJMOD}/libraries/3.5jack/SJ1-3524N.lib")(options "")(descr ""))
+  (lib (name "PTR902-1020K-A502")(type "Legacy")(uri "${KIPRJMOD}/libraries/pot/PTR902-1020K-A502.lib")(options "")(descr ""))
+  (lib (name "PJ-002AH")(type "Legacy")(uri "${KIPRJMOD}/libraries/power/PJ-002AH.lib")(options "")(descr ""))
+  (lib (name "3362P-1-503")(type "Legacy")(uri "${KIPRJMOD}/libraries/trimpot/3362P-1-503.lib")(options "")(descr ""))
+  (lib (name "2022-06-17_01-41-22")(type "Legacy")(uri "${KIPRJMOD}/libraries/relay/KiCAD/2022-06-17_01-41-22/2022-06-17_01-41-22.lib")(options "")(descr ""))
+  (lib (name "RCJ-042")(type "Legacy")(uri "${KIPRJMOD}/libraries/rca/RCJ-042.lib")(options "")(descr ""))
+  (lib (name "RCJ-043")(type "Legacy")(uri "${KIPRJMOD}/libraries/rca/RCJ-043.lib")(options "")(descr ""))
+  (lib (name "SJ1-3533NS")(type "Legacy")(uri "${KIPRJMOD}/libraries/3.5jack/SJ1-3533NS.lib")(options "")(descr ""))
+  (lib (name "3JS-2-R")(type "Legacy")(uri "${KIPRJMOD}/libraries/fuse/3JS-2-R.lib")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: Metal Right-Angle, RCA Jack, Red Housing and Insulation
+3DX_CUI_DEVICES_Model Number: RCJ-042
