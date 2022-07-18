@@ -15,7 +15,7 @@ from [Rogers Gomez](https://diyaudioprojects.com/Solid/12AU7-IRF510-LM317-Headam
 
 ## 3d PCB view
 
-See it [here](https://buxtronix.github.io/toobs/3d/). It will take about 20s to load the model.
+See it [here](https://buxtronix.github.io/toobs/3d/trrs.html). It will take about 20s to load the model.
 
 *(Code from https://github.com/easyw/vrm360)*
 
