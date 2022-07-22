@@ -8,6 +8,7 @@ C6,470u,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,1.04,https://www.digikey.com.au/
 C7,470u,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,1.04,https://www.digikey.com.au/en/products/detail/rubycon/25ZLJ470M10X12-5/3134209
 C8,47u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,0.48,https://www.digikey.com.au/en/products/detail/rubycon/25ZLG47MEFC6-3X7/3563043
 D1,LED_Dual_AAC,LED_THT:LED_D3.0mm-3,0.82,https://www.digikey.com.au/en/products/detail/kingbright/WP115VEGW/3084058
+D2,LED,LED_THT:LED_D3.0mm_Clear,,
 F1,3JS-2-R,fuses:3JS 1-R,0.67,https://www.digikey.com.au/en/products/detail/bel-fuse-inc/3JS-2-R/1010090
 H1,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,,
 H2,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,,
@@ -20,11 +21,11 @@ HS3,Heatsink,heatsink:heatsink_19x13mm,0.43,https://www.digikey.com.au/en/produc
 HS4,Heatsink,heatsink:heatsink_19x13mm,0.43,https://www.digikey.com.au/en/products/detail/aavid-thermal-division-of-boyd-corporation/577002B00000G/102507
 J1,RCJ-042,rca:CUI_RCJ-042,2.44,https://www.digikey.com.au/en/products/detail/cui-devices/RCJ-042/408506
 J2,RCJ-043,rca:CUI_RCJ-043,2.44,https://www.digikey.com.au/en/products/detail/cui-devices/RCJ-043/408507
-J3,SJ-435107,3:CUI_SJ-435107,2.69,https://www.digikey.com.au/en/products/detail/cui-devices/SJ-435107/3064634
+J3,SJ-435107,3:CUI_SJ-435107,0.98 USD,https://www.digikey.com.au/en/products/detail/cui-devices/SJ-435107/3064634
 J4,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,
 J5,PJ-002AH,power:CUI_PJ-002AH,1.19,https://www.digikey.com.au/en/products/detail/cui-devices/PJ-002AH/408446
 J6,Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,
-J7,SJ-435107,3:CUI_SJ-435107,2.69,https://www.digikey.com.au/en/products/detail/cui-devices/SJ-435107/3064634
+J7,SJ-435107,3:CUI_SJ-435107,0.98 USD,https://www.digikey.com.au/en/products/detail/cui-devices/SJ-435107/3064634
 K1,6-1462034-7,footprints:PC323-12L-X,1.9,https://www.digikey.com.au/en/products/detail/picker-components/PC323-12L-X/12352828
 Q1,IRF610,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,1.46,https://www.digikey.com.au/en/products/detail/vishay-siliconix/IRF610PBF-BE3/12396470
 Q2,IRF610,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,1.46,https://www.digikey.com.au/en/products/detail/vishay-siliconix/IRF610PBF-BE3/12396470
@@ -44,6 +45,7 @@ R12,1k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,0.2,https:
 R13,1k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,0.2,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/SFR2500001001FR500/595699
 R14,240,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,0.37,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/MBA02040C2400FCT00/5062453
 R15,47k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,0.29,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/SFR2500004702JA500/5065569
+R16,1k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,0.2,https://www.digikey.com.au/en/products/detail/vishay-beyschlag-draloric-bc-components/SFR2500001001FR500/595699
 RV1,50k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,,https://www.ebay.com.au/itm/151504157376
 RV2,50k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,,https://www.ebay.com.au/itm/151504157376
 RV3,50k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,,https://www.ebay.com.au/itm/151504157376
@@ -51,5 +53,3 @@ U1,LM317_TO-220,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,1.23,https://www.
 U2,LM317_TO-220,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,1.23,https://www.digikey.com.au/en/products/detail/onsemi/LM317MABTG/1476820
 U3,NE555P,Package_DIP:DIP-8_W7.62mm,0.73,https://www.digikey.com.au/en/products/detail/texas-instruments/NE555P/277057
 V1,12AU7,12au7:socket_gzc9-b,,https://www.ebay.com.au/itm/314046270418
-,,,,
-,,,43.06,
